@@ -8,7 +8,7 @@
 
 You will find the flag after decrypting this file. Download the encrypted flag [here](https://artifacts.picoctf.net/c/391/encrypted.txt).
 
-After downloading the file, I found the this encrypted text in `encrypted.txt`:
+After downloading the file, I found this encrypted text in `encrypted.txt`:
 
 ```
 xqkwKBN{z0bib1wv_l3kzgxb3l_7l140864}
