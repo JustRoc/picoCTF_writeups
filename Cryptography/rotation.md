@@ -57,4 +57,4 @@ To make sure that a positive result in the range `0-25`, we add `26` before taki
 where `n` is any integer and `y` is 26 in this case.
 
 ### Answer
-`picoCTF{r0tat1on_d3crypt3d_7d140864}`
+`picoCTF{r0tat1on_d3crypt3d_########}`
